@@ -4,8 +4,6 @@ Hello, I'm [Dismas I. Nyagaka](https://imayadismas.netlify.app), an Android Engi
 
 I'm also a passionate open-source enthusiast and contributor. I've gained valuable insights from the open-source community and greatly appreciate the collaborative spirit and knowledge-sharing that thrive within this ecosystem.
 
-🌐 Let's build the future of mobile together! [Reach out](mailto:imayadismas@gmail.com) for collaborations and opportunities.
-
 <!--
 📱Committed to staying on the cutting edge of Android development, keeping up with the latest trends and tools.
 
@@ -60,6 +58,10 @@ Continuous Integration
   
   <img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=for-the-badge&link=https://www.jetbrains.com/pycharm/" />
 </p>
+
+**🌐 if you appreciate my work:**
+
+Let's build the future of mobile together! [Reach out](mailto:imayadismas@gmail.com) for collaborations and opportunities.
 
 **📈 my github stats:**
 
